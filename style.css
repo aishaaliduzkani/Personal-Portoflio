@@ -1,0 +1,47 @@
+#navbar{
+position: fixed;
+background-color: brown;
+
+}
+ ul{
+      font-size: 20px;
+ 
+  
+}
+li{
+    display: inline;
+    margin-left: 500px;
+    padding-left:60px ;
+}
+a{
+    text-decoration: none;
+color: white;
+  
+}
+#welcome-section{
+text-align: center;
+padding-top: 100px;
+height: 1000%;
+width: 100%;
+font-size: 130px;
+color: white;
+background-color: rgb(39, 27, 27);
+}
+
+#welcome-section p{
+    font-style: italic;
+    color: brown;
+    font-size: 170px;
+    text-align: center;
+}
+#projects{
+    text-align: center;
+    text-decoration: underline;
+    font-size: 40px;
+    color: white;
+    padding-top: 100px;
+    padding-bottom: 200px;
+    background-color: rgb(67, 52, 117);
+    height: 1000%;
+width: 100%;
+}
